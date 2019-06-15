@@ -27,6 +27,9 @@ include('header.php');
 			<div class="item">
 				<img class="carousel-img" src="images/carousel/captain.jpeg" alt="Third Slide">
 			</div>
+			<div class="item">
+				<img class="carousel-img" src="images/carousel/captain.jpeg" alt="Third Slide">
+			</div>
 		</div>
 	</div>
 	</div>
