@@ -4,7 +4,6 @@ include('header.php');
 
 
 
-<!-----------------------------------------1st card----------------------------------------------------->
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-4">
